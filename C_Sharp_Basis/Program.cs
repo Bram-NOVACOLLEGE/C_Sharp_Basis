@@ -6,8 +6,10 @@
         {
             string name = "Jan";
             int age = 20;
-            Console.WriteLine($"{name} {age}");
+            Console.WriteLine($" Naam: \t {name} \n Age: \t {age}");
             Console.ReadLine();
         }
     }
 }
+
+
