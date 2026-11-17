@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="C_Sharp_Basis/C_Sharp_Basis.csproj" />
   <Project Path="Opdracht 4/Opdracht 4.csproj" Id="527e9e6f-9305-4b3a-9f0a-0459ee44c2c9" />
+  <Project Path="Opdracht10/Opdracht10.csproj" Id="653c130d-b67e-4c98-a9b9-ad171f883ad0" />
   <Project Path="Opdracht2/Opdracht2.csproj" />
   <Project Path="Opdracht3/Opdracht3.csproj" Id="1f85d216-13f8-4b1c-9e43-35fd0f4b5845" />
   <Project Path="Opdracht5/Opdracht5.csproj" Id="46efcb96-8d8f-4579-956e-9537dbc0aec8" />
