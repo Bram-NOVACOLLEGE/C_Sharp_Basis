@@ -10,11 +10,15 @@ namespace Opdracht8
 
             string invoer = Console.ReadLine().ToUpper();
 
-            string resultaat = (invoer == "LUCKY")
-                ? $"Je typte {invoer} en dat is Correct!"
-                : $"Je typte {invoer} en dat is Fout!";
+            if (invoer == "LUCKY")
+            {
+                Console.WriteLine($"Je typte {invoer} en dat is Correct!");
+            }
+            else
+            {
+                Console.WriteLine($"Je typte {invoer} en dat is Fout!");
+            }
 
-            Console.WriteLine(resultaat);
             Console.ReadLine();
         }
     }
