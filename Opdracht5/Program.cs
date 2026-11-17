@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Opdracht05
+namespace Opdracht5
 {
     class Program
     {
